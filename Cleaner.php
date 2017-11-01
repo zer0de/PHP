@@ -4,8 +4,6 @@
  * sectionen updaten DVD-R = DVDR etc... function?
  * crap entfernen!
  */
-
-
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
 	
